@@ -42,12 +42,6 @@ I'm a passionate **Software Developer** specializing in **full-stack development
 - Email: `monayem@example.com`  
 - LinkedIn: [Monayem Hossain](https://www.linkedin.com/in/monayem-hossain/)  
 - Portfolio: [Your Portfolio Link](#)  
-- Fiverr: [Monayem on Fiverr](#)
 
 ---
 
-## ⚡ Fun Fact
-
-I love turning complex problems into simple, elegant solutions and always enjoy learning the latest tech trends.
-
----
