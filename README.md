@@ -51,7 +51,6 @@ Welcome to my software development portfolio! I specialize in building **dynamic
 - Enhanced client sales pipeline efficiency by 40%  
 - [GitHub Repo](#)
 
-![Jesha Shop Screenshot](/images/jesha-shop.png)
 
 ---
 
